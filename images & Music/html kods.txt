@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="Keywords" content="Yunuswals Ne Yaptıgını bilmiyor">
+    <link rel="stylesheet" href="styles.css">
+    <title>Yunuswalh</title>
+</head>
+
+<body style="background-color: black;">
+
+ <img src="./images & Music/kurts.jpg" width="250" alt="">
+
+ <pre style="color: white;">
+    <img src="./images & Music/e2d51a59-6115-e311-9a27-14feb5cc13c9.jpg" alt="">
+
+    <h3>
+        Matrix "Aklını özgürleştirmek istiyorsan bildiklerini unutmalısın."
+    </h3>
+    <hr>
+    <img src="./images & Music/42ec4678-6115-e311-9a27-14feb5cc13c9.jpg" alt="">
+    <h3>
+        Tatlı Tesadüf "Telefon çalmadığında aramayan benimdir"
+    </h3>
+<hr>
+<img src="./images & Music/2b50967e-6115-e311-9a27-14feb5cc13c9.jpg" alt="">
+<h3>
+    Pulp Fiction “Karakterli olmak karakter olmak için yeterli değildir.”
+</h3>
+<hr>
+<img src="./images & Music/dsssds.jpg" alt="">
+<h3>
+    Leon Mathilda: Hayat hep böyle zor mudur, yoksa sadece çocuk olduğunda mı böyle gelir? Leon: Hep böyledir
+</h3>
+<hr>
+<img src="./images & Music/asds.jpg" alt="">
+<h3>
+  Esaretin Bedeli "Umut tehlikelidir. Umut bi insanı deli edebilir. Bu iyi değildir."
+</h3>
+<hr>
+<img src="./images & Music/the god.jpg" alt="">
+<h3>
+  The Godfather "Para silahtır ama siyaset, tetiği ne zaman çekeceğini bilmektir. "
+</h3>
+<hr>
+<img src="./images & Music/iyi kötü.jpg" alt="">
+<h3> İyi, kötü ve çirkin "Eğer yaşamak için çalışıyorsan neden çalışarak ölüyorsun…"</h3>
+<hr>
+<img src="./images & Music/12 kızgın adam.jpg" alt="">
+<h3>
+ 12 Kızgın Adam "Bir hiç olmak çok üzücüdür beyler. İnsanlar hep aranmak ister, dinlenmek ister, hayatta bir kez de olsa önemli olmak ister."
+</h3>
+<hr>
+<img src="./images & Music/scliendr.jpg" alt="">
+<h3>
+  Schindler’in Listesi ”Öldürme yetkisine sahip olup da öldürmüyorsan güçlüsündür.”
+</h3>
+<hr>
+<img src="./images & Music/inception.jpg "alt=>
+<h3>
+    İnception "Çözmesi 2 dakika sürecek bir labirent çizmek için 1 dakikan var."
+</h3>
+<hr>
+<img src="./images & Music/batman kara sovalye.jpg" alt="">
+<h3>
+    Batman / Kara Şövalye "Neden bıçak kullanıyorum biliyormusun? Tabanca çok hızlı. Böylece küçük anların tadına varıyorsun." (Joker)
+</h3>
+<hr>
+<img src="./images & Music/lords.jpg" alt="">
+<h3>
+    Yüzüklerin Efendisi: Kralın Dönüşü "Ölüm herkesin geçmesi gereken yeni bir başlangıçtır."
+</h3>
+<hr>
+<img src="./images & Music/fight club.jpg" alt="">
+<h3>
+    Dövüş Kulübü "İnsan sevdiğini öldürür diye bir söz vardır ya. Aslında bakın, insanı öldüren hep sevdiğidir."
+</h3>
+<hr>
+<img src="./images & Music/kaybedenler.jpg" alt="">
+<h3>
+    Kaybedenler Kulübü + Ne dedi Orhan Veli? - Ne dedi? + Ne bileyim bununla ilgili bir şeyler de demiştir.
+</h3>
+<hr>
+<img src="./images & Music/amelie.jpg" alt="">
+<h3>
+    Amelie ” İki insana birbirlerine aşık olduklarını söylersen olurlar…”
+</h3>
+<hr>
+<img src="./images & Music/gugk kusu.jpg" alt="">
+<h3>
+    Guguk Kuşu "Yolumdan çekil oğlum, benim oksijenimi kullanıyorsun."
+</h3>
+<hr>
+<img src="./images & Music/v for vandetta.jpg" alt="">
+<h3>
+    V For Vendetta “Siyasiler gerçeği örtmek, sanatçılar ise gerçeği göstermek için yalan söylerler."
+</h3>
+<hr>
+<img src="./images & Music/gladyator.jpg" alt="">
+<h3>
+    Gladyatör “Asker olmanın en büyük avantajı düşmanınızı karşınızda görüyor olmanızdır..”
+</h3>
+<hr>
+<img src="./images & Music/olagan supheli.jpg" alt="">
+<h3>
+    Olağan Şüpheliler ” Şeytanın yapmış olduğu en büyük hile, tüm dünyaya yaşamadığına inandırmaktır. ”
+</h3>
+<hr>
+<img src="./images & Music/casablanca.jpg" alt="">
+<h3>
+    Casablanca - Benden nefret mi ediyorsun? Seni düşünecek vaktim olsaydı inan senden nefret ederdim.
+</h3>
+<hr>
+<img src="./images & Music/piyanist.jpg" alt="">
+<h3>
+    Piyanist Lütfen ateş etmeyin ben Polonyalıyım. + Neden o zaman o lanet olası Alman paltosunu giyiyorsun ? - Üşüyorum.
+</h3>
+<hr>
+<img src="./images & Music/gelecege.jpg" alt="">
+<h3>
+    Geleceğe Dönüş "Yol mu? gittiğimiz yerde yola ihtiyacımız yok. (Dr. Emmett)"
+</h3>
+<hr>
+<img src="./images & Music/v foe 2.jpg" alt="">
+<h3>
+    V For Vendetta "Kim olduğun, ne yaptığının yanında önemsizdir"
+</h3>
+<hr>
+<img src="./images & Music/yaralı yuz.jpg" alt="">
+<h3>
+    Yaralı Yüz "Makyajına ve yüzündeki boyalarına güvenme. Yollar da güzeldir ama altından kanalizyasyon geçer."
+</h3>
+<hr>
+<img src="./images & Music/kayps.jpg" alt="">
+<h3>
+    Kaybedenler Kulübü "Bunca insan yalnızken neden bunca insan yalnız."
+</h3>
+<hr>
+<img src="./images & Music/ains.jpg" alt="">
+<h3>
+    Zaman Makinesi Herkesin bir zaman makinesi vardır. Bizi geçmişe götürenleri anılarımız, geleceğe götürenler ise umutlarımızdır"
+</h3>
+<hr>
+<img src="./images & Music/kösteek.jpg" alt="">
+<h3>
+    Köstebek Bazı insanları çevresi yaratır,bazı insanlar çevresini yaratır.
+</h3>
+<hr>
+<img src="./images & Music/rocky.jpg" alt="">
+<h3>
+    Rocky Balboa "Kimse hayat kadar sert vuramaz"
+</h3>
+<hr>
+<img src="./images & Music/ıssız.jpg" alt="">
+<h3>
+    Issız Adam "Karda donmak üzeresin, uyumak tatlı geliyor, ama ölüyorsun farkında değilsin"
+</h3>
+<hr>
+<img src="./images & Music/beni.jpg" alt="">
+<h3>
+    Beni olduğum gibi kabul et. Ancak o zaman birbirimizi keşfedebiliriz... Guido
+</h3>
+<hr>
+<img src="./images & Music/fight vlub 2.jpg" alt="">
+<h3>
+    Bizim neslimiz Büyük Depresyon'u ya da Büyük Savaş'ı yaşamadı. Bizim savaşımız ruhsal bir savaş. Bizim depresyonumuz kendi hayatlarımız... Tyler Durden
+</h3>
+<hr>
+<img src="./images & Music/oldboy.jpg" alt="">
+<h3>
+    Oldboy “Gülersen, bütün dünya seninle birlikte güler. Ağlarsan tek başına ağlarsın" oldboy
+</h3>
+<hr>
+<img src="./images & Music/fight club 3.webp" width="550" alt="">
+<h3>
+    "Makyajına ve yüzündeki boyalarına güvenme. Yollar da güzeldir ama altından kanalizasyon geçer."
+</h3>
+<hr>
+<img src="./images & Music/the god father 2.webp" width="550" alt="">
+<h3>
+    "Kaybedecek bir şeyinin kalmaması, özgürlük galiba."
+</h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ </pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
